@@ -8,7 +8,7 @@
 T-VSL incorporates the text modality as an intermediate feature guide using tri-modal joint embedding models (e.g., AudioCLIP) to disentangle the semantic audio-visual source correspondence in multi-source mixtures. 
 
 <div align="center">
-  <img width="70%" alt="MA-AVT Illustration" src="./assets/method.png">
+  <img width="90%" alt="MA-AVT Illustration" src="./assets/method.png">
 </div>
 
 
