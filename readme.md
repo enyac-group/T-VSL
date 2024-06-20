@@ -38,13 +38,13 @@ Data can be downloaded from [Localizing Visual Sounds the Hard Way](https://gith
 
 ## Train
 
-For training the AVGN model, please run
+For training the T-VSL model, please run
 
 ```
 python main.py --train_data_path ./data/vggsound \
         --mode train --test_data_path ./data/vggsound \
         --test_gt_path ./metadata/vggsound_duet_test.csv \
-        --output_dir ./outputs/final_tvsl_sgpu \
+        --output_dir ./path/to/output/dir \
         --id vggsound_duet --model tvsl \
         --trainset vggsound_duet --num_class 221 \
         --testset vggsound_duet --epochs 100 \
@@ -64,7 +64,7 @@ python main.py --mode test \
         --train_data_path ./data/vggsound \
         --test_data_path ./data/vggsound \
         --test_gt_path ./metadata/vggsound_duet_test.csv \
-        --output_dir ./outputs/final_tvsl_sgpu \
+        --output_dir ./path/to/output/dir \
         --id vggsound_duet --model tvsl \
         --trainset vggsound_duet --num_class 221 \
         --testset vggsound_duet --epochs 100 \
@@ -78,6 +78,7 @@ python main.py --mode test \
 
 ## 👍 Acknowledgments
 This codebase is based on [AVGN](https://github.com/stoneMo/AVGN) and [AudioCLIP](https://github.com/AndreyGuzhov/AudioCLIP). Thanks for their amazing works.
+
 
 ## LICENSE
 T-VSL is licensed under a [UT Austin Research LICENSE](./LICENSE).

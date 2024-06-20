@@ -1,7 +1,7 @@
 python main.py --train_data_path ./data/vggsound \
         --mode test --test_data_path ./data/vggsound \
         --test_gt_path ./metadata/vggsound_duet_test.csv \
-        --output_dir ./outputs/final_tvsl_sgpu \
+        --output_dir ./path/to/output/dir \
         --id vggsound_duet --model tvsl \
         --trainset vggsound_duet --num_class 221 \
         --testset vggsound_duet --epochs 100 \
