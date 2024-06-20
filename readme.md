@@ -60,7 +60,7 @@ python main.py --train_data_path ./data/vggsound \
 For testing and visualization, simply run
 
 ```
-python python main.py --mode test \
+python main.py --mode test \
         --train_data_path ./data/vggsound \
         --test_data_path ./data/vggsound \
         --test_gt_path ./metadata/vggsound_duet_test.csv \
