@@ -9,4 +9,4 @@ python main.py --train_data_path ./data/vggsound \
         --lr_schedule cos --multiprocessing_distributed \
         --ngpu 4 --port 11342 --ciou_thr 0.3 \
         --iou_thr 0.3 --save_visualizations \
-        --audioclip_ckpt_path ./pretrained_weights/AudioCLIP-Full-Training.pt
+        --audioclip_ckpt_path ./path/to/audioclip/pretrained/ckpt
