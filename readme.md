@@ -1,6 +1,7 @@
-**[T-VSL: Text-Guided Visual Sound Source Localization in Mixtures (CVPR 2024)(CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Mahmud_T-VSL_Text-Guided_Visual_Sound_Source_Localization_in_Mixtures_CVPR_2024_paper.pdf)**
+# T-VSL: Text-Guided Visual Sound Source Localization in Mixtures (CVPR 2024)
+[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Mahmud_T-VSL_Text-Guided_Visual_Sound_Source_Localization_in_Mixtures_CVPR_2024_paper.pdf) | [Supplementary](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Mahmud_T-VSL_Text-Guided_Visual_CVPR_2024_supplemental.pdf) | [Arxiv](https://arxiv.org/abs/2404.01751) | [Video](https://www.youtube.com/watch?v=oKc8RwDHjsA) | [Poster](https://drive.google.com/file/d/1-RcoTY8aR8b9JbloNnGGCAAiNWCdOPyP/view?usp=drive_link)
 <br/>
-[Tanvir Mahmud](https://sites.google.com/view/tanvirmahmud),
+by [Tanvir Mahmud](https://sites.google.com/view/tanvirmahmud),
 [Yapeng Tian](https://www.yapengtian.com/),
 [Diana Marculescu](https://www.ece.utexas.edu/people/faculty/diana-marculescu)
 <br/>
